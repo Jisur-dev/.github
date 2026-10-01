@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./banner" alt="Jisur | جسر Your bridge to a real engineering career" width="100%" />
+<img src="../assets/banner.jpg" alt="Jisur | جسر Your bridge to a real engineering career" width="100%" />
+
+<br/>
 
 # Jisur | جسر
 
